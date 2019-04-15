@@ -1,0 +1,33 @@
+name: BlockcadeGames
+version: 0.1-SNAPSHOT
+description: Blockcade's official gamemodes.
+author: Blockcade Development Team
+main: us.blockcade.games.Main
+
+commands:
+  start:
+    description: Force-start a lobby.
+    aliases: [forcestart, fs, begin, force, startgame]
+  halt:
+    description: Force-end a lobby.
+    aliases: [forceend, finish, fe, endgame, stopgame]
+  arena:
+    description: View and manage a game's arenas.
+    aliases: [arenas, map, maps]
+  world:
+    description: View the world's on a game server.
+    aliases: [w, worlds]
+  menu:
+    description: Opens the game menu.
+    aliases: [gamemenu, gameinfo]
+  about:
+    description: How to play the current game.
+    aliases: [howtoplay, instructions]
+  leaderboard:
+    description: View the game's leaderboard.
+    aliases: [lb, top, leaderboards]
+  test:
+    description: Test a thing.
+    aliases: [t, testing, debug]
+  spleef:
+    description: Command features for Spleef game.

@@ -1,0 +1,24 @@
+enabled-game: 'Prototype'
+game-lobbies:
+  base-world: 'world'
+  generation-amount: 3
+  lobby-location:
+    x: 0.5
+    y: 101
+    z: 0.5
+    yaw: 180
+    pitch: 0
+  arenas:
+    prototype:
+      1:
+        team: 'Player'
+        x: 1000.5
+        y: 101
+        z: 1000.5
+        yaw: 180
+        pitch: 0
+      2:
+        team: 'Player'
+        x: 1000.5
+        y: 101
+        z: 1000.5

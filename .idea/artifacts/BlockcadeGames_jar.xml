@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockcadeGames:jar">
+    <output-path>$USER_HOME$/Downloads/servers</output-path>
+    <root id="archive" name="BlockcadeGames.jar">
+      <element id="module-output" name="BlockcadeGames" />
+    </root>
+  </artifact>
+</component>
